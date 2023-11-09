@@ -17,6 +17,10 @@
 * Take the two remaining suits of numerical cards and divide them among thw two players: One player takes the odd black numbers and the even red numbers, while the other player takes the even black numbers and the odd red ones.
 * Decide which player will decide the numbers to be played (we'll call them player A), while the other player (player B) will determine the colour.
 
+The following picture shows a possible initial setup for the game:
+
+<img src="initial_pos.png" alt="Initial position" height="300"/>
+
 Once this is done the setup is complete and the game can begin. Players control the white pawns while the automated opponent controls the black pawns.
 
 ## How to play
